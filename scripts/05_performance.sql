@@ -1,0 +1,2 @@
+-- 05_performance.sql
+-- Placeholder — índices e otimizações (a ser implementado).

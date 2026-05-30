@@ -1,0 +1,2 @@
+-- 03_etl_load.sql
+-- Placeholder — carga ETL com SCD Type 2 (a ser implementado).

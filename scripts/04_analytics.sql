@@ -1,0 +1,2 @@
+-- 04_analytics.sql
+-- Placeholder — consultas analíticas (a ser implementado).

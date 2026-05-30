@@ -1,0 +1,15 @@
+# Dados brutos (baixar do Kaggle)
+data/*.csv
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
