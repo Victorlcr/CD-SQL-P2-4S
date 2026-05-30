@@ -2,6 +2,14 @@
 
 Data Warehouse completo construído sobre o dataset brasileiro de e-commerce [Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), utilizando **DuckDB** como motor analítico.
 
+## Integrantes
+
+Daiane
+Enrico
+Wellington
+Victor
+
+
 ## Estrutura do Projeto
 
 ```
@@ -36,7 +44,7 @@ projeto-dw-olist/
 ## Como Executar
 
 ```bash
-# Instalar DuckDB (se necessário)
+# Instalar DuckDB
 pip install duckdb
 
 # Executar os scripts na ordem
@@ -48,7 +56,7 @@ duckdb olist.duckdb < scripts/03_etl_load.sql
 
 ## Dataset
 
-Baixe os CSVs do Kaggle e coloque na pasta `data/`:
+Arquivos CSVs do Kaggle adicionados na pasta `data/`:
 - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Tecnologias
