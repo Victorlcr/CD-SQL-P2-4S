@@ -4,10 +4,13 @@ Data Warehouse completo construído sobre o dataset brasileiro de e-commerce [Ol
 
 ## Integrantes
 
-Daiane
-Enrico
-Wellington
-Victor
+Daianne Soares Silva (RA: 1141352423022) 
+
+Enrico Sablich Aoyama (RA: 1141352513022) 
+
+Wellington Bianchetti Paes (RA: 1141352513024) 
+
+Victor Lorenzo Castro Rodrigues (RA 1141352423041) 
 
 
 ## Estrutura do Projeto
